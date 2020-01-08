@@ -24,7 +24,6 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -38,6 +37,7 @@
     height: 100vh;
     overflow: hidden; }
   .menu-nav {
+    opacity: 0.9;
     margin: 0;
     padding: 0;
     background: #373737;
